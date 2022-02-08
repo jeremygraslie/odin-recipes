@@ -1,0 +1,16 @@
+.recipe-title {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.recipe-photo {
+    width: 300px;
+    height: auto;
+}
+
+.recipe-description,
+.recipe-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: lightcoral;
+}
